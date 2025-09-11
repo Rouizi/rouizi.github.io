@@ -63,16 +63,16 @@ author:
   bio    : "Perception Engineer. Welcome to my portfolio!"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/yacine-rouizi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Rouizi"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fa-solid fa-envelope"
       url: "mailto:cinorouizi@gmail.com"
     - label: "Resume"
-      icon: "fab fa-fw fa-pdf"
+      icon: "fa-solid fa-file"
       url: "mailto:cinorouizi@gmail.com"
 
 footer:
