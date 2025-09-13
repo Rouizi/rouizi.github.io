@@ -12,3 +12,4 @@ It covers camera calibration, disparity map generation, depth map computation, a
 
 ## [Visual Fusion](https://github.com/Rouizi/visual-fusion)
 
+Early and late fusion techniques to combine LiDAR point clouds and camera images for obstacle detection.
