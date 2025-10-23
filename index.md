@@ -15,7 +15,7 @@ In this project, I learned how to do 3D object detection, tracking, and visualiz
 
 ## [Stereo Depth Estimation](https://github.com/Rouizi/stereo-depth-estimation)
 
-![](assets/images/streo_depth_estimation.gif)
+![](assets/images/streo-depth-estimation.gif.gif)
 
 This project explores **stereo vision** techniques for depth estimation.
 It covers camera calibration, disparity map generation, depth map computation, and obstacle detection in 3D from stereo images.
