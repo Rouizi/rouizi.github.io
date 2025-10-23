@@ -2,6 +2,7 @@
 layout: single
 title: "My Projects"
 permalink: /
+author_profile: true
 ---
 
 Explore some of the projects I’ve worked on. Click any project for more details.
