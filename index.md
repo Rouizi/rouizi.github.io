@@ -9,6 +9,8 @@ Explore some of the projects I’ve worked on. Click any project for more detail
 
 ## [4D Perception](https://github.com/Rouizi/4d-perception)
 
+![](assets/images/merged_mot_to_view.gif)
+
 In this project, I learned how to do 3D object detection, tracking, and visualization using LiDAR and camera data.
 
 ## [Stereo Depth Estimation](https://github.com/Rouizi/stereo-depth-estimation)
