@@ -1,6 +1,7 @@
 ---
+layout: single
 title: "My Projects"
-permalink: /projects/
+permalink: /
 ---
 
 Explore some of the projects I’ve worked on. Click any project for more details.
